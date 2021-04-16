@@ -1,0 +1,2 @@
+shell scripting adding file is not working so i m trying this file to add into orgin master branch 
+
